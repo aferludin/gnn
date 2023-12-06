@@ -4,6 +4,7 @@
 
 <!-- Insert buttons and diff -->
 
+
 <table class="tfo-notebook-buttons tfo-api nocontent" align="left">
 <td>
   <a target="_blank" href="https://github.com/tensorflow/gnn/tree/master/tensorflow_gnn/graph/graph_tensor.py#L433-L498">
@@ -20,7 +21,7 @@ A composite tensor for node set features plus size information.
     data: Data, spec: 'GraphPieceSpecBase', validate: bool = False
 )
 </code></pre>
-
+`[*graph_shape, num_nodes, *feature_shape]`
 
 
 <!-- Placeholder for "Used in" -->

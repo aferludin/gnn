@@ -47,14 +47,14 @@ the `.sizes` tensor which defines the number of nodes in each graph component.
 
 <tr>
 <td>
-`data`<a id="data"></a>
+`data`
 </td>
 <td>
 Nest of Field or subclasses of GraphPieceBase.
 </td>
 </tr><tr>
 <td>
-`spec`<a id="spec"></a>
+`spec`
 </td>
 <td>
 A subclass of GraphPieceSpecBase with a `_data_spec` that matches

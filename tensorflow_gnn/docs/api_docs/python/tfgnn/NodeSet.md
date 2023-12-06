@@ -1,3 +1,5 @@
+page_type: reference
+
 # tfgnn.NodeSet
 
 [TOC]

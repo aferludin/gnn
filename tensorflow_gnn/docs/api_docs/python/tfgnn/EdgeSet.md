@@ -1,3 +1,11 @@
+description: Contrastive losses.
+
+<div itemscope itemtype="http://developers.google.com/ReferenceObject">
+<meta itemprop="name" content="contrastive_losses" />
+<meta itemprop="path" content="Stable" />
+</div>
+
+
 # tfgnn.EdgeSet
 
 [TOC]
